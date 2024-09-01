@@ -1,31 +1,27 @@
-# Turtle Racing Game
+# Snake Game with Turtle and File Handling
 
-![image](https://github.com/user-attachments/assets/f69d28c6-c049-435d-a831-d95c7efef7b7)
-![PythonTurtleGraphics2024-08-2618-48-06-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0cae66de-a66f-4ad7-b073-d9d2cd0decdc)
-
-
-
+![MySnakeGame2024-08-2318-48-01-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/481634a4-0d6b-4ccb-99cd-58db95a880ca)
 
 ## About The Project
 
-The Turtle Racing Game is an exciting racing simulation built using Python's `turtle` graphics library. This project explores game development concepts and utilizes higher-order functions, Object-Oriented Programming (OOP), and event-driven programming to create a dynamic racing experience. Players control turtles in a race, navigating various tracks and competing for the fastest time.
+The Snake Game is a classic arcade game brought to life using Python's `turtle` graphics library. This project demonstrates fundamental game development concepts, including real-time game mechanics, object-oriented programming (OOP), and file handling for saving and loading game scores. Players control a snake as it navigates the screen, grows in size by eating food, and aims to achieve the highest score possible.
 
 ### Features
 
-- Real-time racing mechanics with smooth animations and responsive controls
+- Classic Snake Game mechanics with smooth animations and responsive controls
 - Graphical representation and user interactions managed through the `turtle` library
-- Utilization of higher-order functions and OOP principles for a modular and maintainable codebase
-- Different states of objects to manage game logic and turtle behaviors
-- Event listeners to handle user input and game events
-- A simple and intuitive interface for an immersive racing experience
+- Integration of file handling to save and load high scores
+- Utilization of higher-order functions and OOP principles for modular and maintainable code
+- Dynamic game state management to handle snake movement, collision detection, and scoring
+- Simple and intuitive interface for an engaging gaming experience
 
 ### Built With
 
 * **Python** – The programming language used to implement the core functionality and game logic.
 * **Turtle** – The graphics library for creating the visual elements and handling user interactions.
+* **File Handling** – For saving and loading high scores to persist game data.
 * **Higher-Order Functions** – Employed to streamline game logic and event handling.
 * **Object-Oriented Programming (OOP)** – For organizing code with classes and objects, enhancing code clarity and extensibility.
-* **Event Listeners** – Used to manage user input and trigger game events dynamically.
 
 ## Getting Started
 
